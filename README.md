@@ -28,7 +28,7 @@ I link ai file sono:
 
 Nel caso si intenda eseguire la sperimentazione online, lanciare *Binder* con il tasto sottostante e quindi, dopo che il server remoto ha creato l'ambiente opportuno (per la prima volta è necessario circa 1 minuto)
 
-[![Binder](./avviaScript.svg)](https://mybinder.org/v2/gh/lrnzr/doyle.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fdoyle_display.ipynb) 
+[![Binder](./avviaNotebook.svg)](https://mybinder.org/v2/gh/lrnzr/doyle.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fdoyle_display.ipynb) 
 
 selezionare le voci di menu *`Run/Run All Cells`* e immettere i dati richiesti o accettare i predefiniti.
 
