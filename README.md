@@ -8,32 +8,29 @@
 </p>
 
 
-Riportiamo in questa pagina due script Python che integrano 
+Riportiamo in questa pagina due script Python e un notebook Jupiter. Questi permettono permettono la sperimentazione delle
 
-* le pagine sulle spirali di Doyle riportate nel sito personale  [https://www.lorenzoroi.net](https://www.lorenzoroi.net/geometriaEuclidea.html),  
-* la loro versione cartacea pubblicata in [Amazon](https://amzn.eu/d/9je88dF) e 
-* e la più sintetica pagina a carattere visuale [articolo](https://www.lorenzoroi.net/doyle). 
+* pagine sulle spirali di Doyle riportate nel sito personale  [https://www.lorenzoroi.net](https://www.lorenzoroi.net/geometriaEuclidea.html), della 
+* loro versione cartacea pubblicata in [Amazon](https://amzn.eu/d/9je88dF) e della
+* pagina a carattere visuale [articolo](https://www.lorenzoroi.net/doyle). 
 
-Entrambi gli script permettono la sperimentazione e si differenziano solo nell'istruzione finale: il primo visualizza la configurazione scelta in una finestra grafica, mentre il secondo la salva nella cartella corrente come file SVG.
+I due script si differenziano solo nell'istruzione finale: il primo visualizza la configurazione scelta in una finestra grafica, mentre il secondo la salva nella cartella corrente come file SVG. Il notebook Jupiter è identico al primo script ma diversamente dei precedenti permette la visualizzazione grafica online.
 
 ## Files
 
-I nomi dei file sono:
+I link ai file sono:
 
 * il primo script Python  [doyle_display.py](doyle_display.py),
-* il secondo  [doyle_savefile.py](doyle_savefile.py),.
+* il secondo  [doyle_savefile.py](doyle_savefile.py), mentre
+* il notebook Jupiter [doyle_display.ipynb](doyle_display.ipynb) 
 
 ## Esecuzione
 
-Nel caso si intenda eseguire la sperimentazione online, lanciare *Binder* con i tasti sottostanti e quindi, dopo che il server remoto ha avviato 
-
-Nel caso dello script
-
-[![Binder](./avviaScript.svg)](https://mybinder.org/v2/gh/lrnzr/doyle.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fdoyle_display.py) 
+Nel caso si intenda eseguire la sperimentazione online, lanciare *Binder* con il tasto sottostante e quindi, dopo che il server remoto ha creato l'ambiente opportuno (per la prima volta è necessario circa 1 minuto)
 
 [![Binder](./avviaScript.svg)](https://mybinder.org/v2/gh/lrnzr/doyle.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fdoyle_display.ipynb) 
 
-selezionare una console con *`New Launcher`* e quindi *`Other`* (oppure, da menu, *`File/New/Terminal`*) e avviarlo con il kernel *`python coordinateSolari.py`*.
+selezionare le voci di menu *`Run/Run all cells`*.
 
 
 *[Lorenzo Roi](mailto:LRoi@mclink.it)*
