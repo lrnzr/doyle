@@ -29,7 +29,7 @@ Nel caso si intenda eseguire la sperimentazione online, lanciare *Binder* con i 
 
 Nel caso dello script
 
-[![Binder](./avviaScript.svg)](https://mybinder.org/v2/gh/lrnzr/doyle/main?urlpath=%2Fdoc%2Ftree%2Fdoyle_display.py) 
+[![Binder](./avviaScript.svg)](https://mybinder.org/v2/gh/lrnzr/doyle/tree/main/HEAD?urlpath=%2Fdoc%2Ftree%2Fdoyle_display.py) 
 
 selezionare una console con *`New Launcher`* e quindi *`Other`* (oppure, da menu, *`File/New/Terminal`*) e avviarlo con il kernel *`python coordinateSolari.py`*.
 
