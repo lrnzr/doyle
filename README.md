@@ -12,7 +12,7 @@ Riportiamo in questa pagina due script Python e un notebook Jupiter. Questi perm
 
 * pagine sulle spirali di Doyle riportate nel sito personale  [https://www.lorenzoroi.net](https://www.lorenzoroi.net/geometriaEuclidea.html), della 
 * loro versione cartacea pubblicata in [Amazon](https://amzn.eu/d/9je88dF) e della
-* pagina a carattere visuale [articolo](https://www.lorenzoroi.net/doyle). 
+* pagina di  [sintesi visuale](https://www.lorenzoroi.net/doyle). 
 
 I due script si differenziano solo nell'istruzione finale: il primo visualizza la configurazione scelta in una finestra grafica, mentre il secondo la salva nella cartella corrente come file SVG. Il notebook Jupiter è identico al primo script ma diversamente dei precedenti permette la visualizzazione grafica online.
 
