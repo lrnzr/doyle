@@ -31,6 +31,8 @@ Nel caso dello script
 
 [![Binder](./avviaScript.svg)](https://mybinder.org/v2/gh/lrnzr/doyle.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fdoyle_display.py) 
 
+[![Binder](./avviaScript.svg)](https://mybinder.org/v2/gh/lrnzr/doyle.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fdoyle_display.ipynb) 
+
 selezionare una console con *`New Launcher`* e quindi *`Other`* (oppure, da menu, *`File/New/Terminal`*) e avviarlo con il kernel *`python coordinateSolari.py`*.
 
 
