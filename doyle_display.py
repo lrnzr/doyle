@@ -124,4 +124,3 @@ plt.tick_params(left = False, right = False, labelleft = False, labelbottom = Fa
 ax.set_aspect('equal')
 plt.text(.02, -.04, 'p = '+str(p)+', q = '+str(q)+', spirale = '+str(indice_spirale)+', intervallo = ('+str(estremo_inf_abs)+',' +str(estremo_sup_abs)+'), zoom = '+str(zoom), transform = ax.transAxes)
 plt.show()
-# plt.savefig('p10_q30_spirale3.svg', format='svg', dpi=1200, bbox_inches='tight')
