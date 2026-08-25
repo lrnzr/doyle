@@ -20,8 +20,8 @@ Entrambi gli script permettono la sperimentazione e si differenziano solo nell'i
 
 I nomi dei file sono:
 
-* il primo script Python  [doyle01.py](doyle_display.py),
-* il secondo  [doyle02.py](doyle_savefile.py),.
+* il primo script Python  [doyle_display.py](doyle_display.py),
+* il secondo  [doyle_savefile.py](doyle_savefile.py),.
 
 ## Esecuzione
 
