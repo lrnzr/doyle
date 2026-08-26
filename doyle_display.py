@@ -64,10 +64,12 @@ p = input_default('inserire p:', 5, int)
 q = input_default('inserire q:', 13, int)
 if q <= 0 or p < 0 or p > q:
     raise ValueError('Occorre avere 0 <= p <= q')
-estremo_sup_indici = input_default('estremo sup. indici:', 30, int)
+estremo_sup_indici = input_default('estremo sup. indici (>q):', 30, int)
+if estremo_sup_indici <= q:
+    raise ValueError('Conviene avere estremo sup. indici > q')
 estremo_inf_abs = input_default('estremo inf. distanza:', 0.1, float)
 estremo_sup_abs = input_default('estremo sup. distanza:', 13, float)
-indice_spirale = input_default('1 -> p, 2 -> q, 3 -> q-p:', 1, int)
+indice_spirale = input_default('1 (p), 2 (q), 3 (q-p):', 1, int)
 zoom = input_default('zoom:', 6, float)
 
 ############# CALCOLO ###################################################################################################
