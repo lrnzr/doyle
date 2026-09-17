@@ -15,7 +15,7 @@ Riportiamo in questa pagina due script [*Python*](https://www.python.org/) e un 
 
 Il medesimo argomento viene trattato in modo informale e con il supporto di numerose immagini anche nell'articolo [*Le spirali di Peter Doyle*](https://www.lorenzoroi.net/doyle/index.html).
 
-I due script si differenziano solo nell'istruzione finale: il primo visualizza la configurazione scelta in una finestra grafica, mentre il secondo la salva nella cartella corrente come file SVG. Il notebook Jupiter è identico al primo script ma diversamente dai due precedenti permette anche la visualizzazione grafica online.
+I due script si differenziano solo nell'istruzione finale: il primo visualizza la configurazione scelta in una finestra grafica, mentre il secondo la salva nella cartella corrente come file SVG. Il notebook Jupyter è identico al primo script ma diversamente dai due precedenti permette anche la visualizzazione grafica online.
 
 ## Files
 
@@ -23,7 +23,7 @@ I link ai file sono:
 
 * primo script Python  [doyle_display.py](doyle_display.py),
 * secondo script  [doyle_savefile.py](doyle_savefile.py), 
-* notebook Jupiter [doyle_display.ipynb](doyle_display.ipynb).
+* notebook Jupyter [doyle_display.ipynb](doyle_display.ipynb).
 
 ## Esecuzione
 
