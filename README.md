@@ -8,12 +8,12 @@
 </p>
 
 
-Riportiamo in questa pagina due script [Python](https://www.python.org/) e un notebook [Jupiter](https://jupyter.org/). Questi permettono la sperimentazione grafica delle cosiddette spirali di Doyle discusse in alcune
+Riportiamo in questa pagina due script [*Python*](https://www.python.org/) e un notebook [*Jupyter*](https://jupyter.org/). Questi permettono la sperimentazione grafica delle cosiddette spirali di Doyle discusse in alcune
 
-* pagine del sito personale  [https://www.lorenzoroi.net](https://www.lorenzoroi.net/geometriaEuclidea.html) e riportate 
-* in versione cartacea nella pubblicazione [Amazon](https://amzn.eu/d/9je88dF).
+* pagine del sito personale  [*https://www.lorenzoroi.net*](https://www.lorenzoroi.net/geometriaEuclidea.html) e riportate 
+* in versione cartacea nella pubblicazione [*Amazon*](https://amzn.eu/d/9je88dF).
 
-Il medesimo argomento viene trattato in modo informale e con il supporto di numerose immagini anche nell'articolo [Le spirali di Peter Doyle](https://www.lorenzoroi.net/doyle).
+Il medesimo argomento viene trattato in modo informale e con il supporto di numerose immagini anche nell'articolo [*Le spirali di Peter Doyle*](https://www.lorenzoroi.net/doyle/index.html).
 
 I due script si differenziano solo nell'istruzione finale: il primo visualizza la configurazione scelta in una finestra grafica, mentre il secondo la salva nella cartella corrente come file SVG. Il notebook Jupiter è identico al primo script ma diversamente dai due precedenti permette anche la visualizzazione grafica online.
 
